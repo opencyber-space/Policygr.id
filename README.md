@@ -180,6 +180,16 @@ Supports in-process, remote, function-based, and graph-based policy execution wi
 
 ---
 
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 —
+
+see the [LICENSE](LICENSE) file for details.
+
+Copyright (C) 2026 OpenCyberspace.org
+
+---
+
 ## 📢 Communications
 
 1. 📧 Email: [community@opencyberspace.org](mailto:community@opencyberspace.org)  
