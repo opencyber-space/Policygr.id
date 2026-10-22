@@ -1,0 +1,13 @@
+site_name: PolicyGr.id
+theme:
+  name: material
+
+nav:
+
+- 📚 Index: index.md
+
+- 🛡️ PolicyGr.id:
+  - Introduction: introduction.md
+  - Structure: structure.md
+  - Onboarding: onboarding.md
+  - Policies Server: policies-server.md
